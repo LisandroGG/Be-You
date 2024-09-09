@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Logo from '/logo.png';
+import Logo from '/logo.webp';
 
 const Navbar = ({ onProductosClick, productos }) => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -37,7 +37,7 @@ const Navbar = ({ onProductosClick, productos }) => {
             <img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-16" />
         </a>
 
-        <button onClick={handleChangeTheme} className="text-lg md:text-xl flex">
+        <button onClick={handleChangeTheme} aria-label="theme" className="flex">
             {theme === "dark" ? (
             <svg xmlns="http://www.w3.org/2000/svg" width=".18in" height=".18in" viewBox="0 0 20 20">
                 <g id="moon" transform="translate(3, 0)">
