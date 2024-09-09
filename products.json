@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "nombre": "Destacados",
+            "contenidos" : [
+
+            ]
+        },
+        {
+            "nombre": "Remeras",
+            "contenidos": [
+                {
+
+                }
+            ]
+        },
+        {
+            "nombre": "Pantalones",
+            "contenidos": [
+                {
+                    
+                }
+            ]
+        },
+        {
+            "nombre": "Vestidos",
+            "contenidos": [
+                {
+                    
+                }
+            ]
+        },
+        {
+            "nombre": "Abrigos",
+            "contenidos": [
+                {
+                    
+                }
+            ]
+        },
+        {
+            "nombre": "Zapatillas",
+            "contenidos": [
+                {
+                    
+                }
+            ]
+        },
+        {
+            "nombre": "Conjuntos",
+            "contenidos": [
+                {
+                    
+                }
+            ]
+        }
+    ]
+}
