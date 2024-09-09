@@ -18,7 +18,7 @@ const Navbar = () => {
                 <ion-icon name={menuOpen ? "close" : "menu"}></ion-icon>
                 </div>
 
-                <img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-15"></img>
+                <img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-16"></img>
             </div>
             <nav className={menuOpen ? "" : "hidden md:flex md:justify-center"}> 
                 <ul className="flex flex-col pl-4 pb-4 md:flex-row gap-5 text-white">
