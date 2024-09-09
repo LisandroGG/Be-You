@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Logo from '/logo.webp';
+import Logo from '/logo.png';
 
 const Navbar = ({ onProductosClick, productos }) => {
     const [menuOpen, setMenuOpen] = useState(false);
