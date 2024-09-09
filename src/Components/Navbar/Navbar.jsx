@@ -20,7 +20,7 @@ const Navbar = () => {
 
                 <img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-16"></img>
             </div>
-            <nav className={menuOpen ? "" : "hidden md:flex md:justify-center"}> 
+            <nav className={`${menuOpen ? "max-h-96" : "max-h-0"} overflow-hidden transition-all duration-500 ease-in-out md:max-h-full md:flex md:justify-center`}> 
                 <ul className="flex flex-col pl-4 pb-4 md:flex-row gap-5 text-white">
                     <li>Remeras</li>
                     <li>Pantalones</li>
