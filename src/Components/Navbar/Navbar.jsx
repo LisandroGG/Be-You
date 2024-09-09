@@ -20,11 +20,11 @@ const Navbar = ({onProductosClick, productos}) => {
                 <a href="/"><img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-16"></img></a>
             </div>
             <nav className={`${menuOpen ? "max-h-96" : "max-h-0"} overflow-hidden transition-all duration-500 ease-in-out md:max-h-full md:flex md:justify-center`}> 
-                <ul className="flex flex-col pl-4 pb-4 md:flex-row gap-5 text-white font-medium text-lg  md:text-xl">
+                <ul className="flex flex-col pl-4 pb-4 md:flex-row gap-4 md:gap-8 text-white font-medium text-lg  md:text-xl">
                     {productos
                     .filter(producto => producto.nombre !== "Destacados")
                     .map(producto => (
-                        <li key={producto.nombre} onClick={() => onProductosClick(producto)}>{producto.nombre}</li>
+                        <li key={producto.nombre} className="cursor-pointer" onClick={() => onProductosClick(producto)}>{producto.nombre}</li>
                     ))}
                 </ul>
             </nav>
