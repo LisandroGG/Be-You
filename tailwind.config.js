@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "nav": "Montserrat Alternates"
+        "Primary": "Montserrat Alternates"
       }
     },
   },
