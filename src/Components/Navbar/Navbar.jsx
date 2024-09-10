@@ -60,7 +60,7 @@ const Navbar = ({ onProductosClick, productos }) => {
             {productos
             .filter((producto) => producto.nombre !== "Destacados")
             .map((producto) => (
-                <li key={producto.nombre} className="cursor-pointer rounded transition-all active:transform active:translate-y-1 p-2 px-3 font-Primary hover:bg-[#91B1C4] hover:text-white hover:dark:text-black hover:dark:bg-[#B6CBD8]" onClick={() => onProductosClick(producto)}>
+                <li key={producto.nombre} className="select-none cursor-pointer rounded transition-all active:transform active:translate-y-1 p-2 px-3 font-Primary hover:bg-[#91B1C4] hover:text-white hover:dark:text-black hover:dark:bg-[#B6CBD8]" onClick={() => onProductosClick(producto)}>
                 {producto.nombre}
                 </li>
             ))}
