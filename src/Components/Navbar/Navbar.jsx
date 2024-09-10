@@ -29,8 +29,8 @@ const Navbar = ({ onProductosClick, productos }) => {
     return (
         <header className="bg-[#B6CBD8] dark:bg-[#00628B]">
         <div className="flex p-4 justify-between md:justify-between items-center">
-            <div className="text-4xl text-white pt-2 md:opacity-0" onClick={openMenu}>
-            <ion-icon name={menuOpen ? "close" : "menu"}></ion-icon>
+            <div className="text-4xl text-slate-800 dark:text-white pt-2 md:opacity-0" onClick={openMenu}>
+            <ion-icon name={menuOpen ? "close-outline" : "menu-outline"}></ion-icon>
             </div>
 
         <a href="/">
