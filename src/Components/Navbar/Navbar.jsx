@@ -56,11 +56,11 @@ const Navbar = ({ onProductosClick, productos }) => {
         </button>
         </div>
         <nav className={`${menuOpen ? "max-h-96" : "max-h-0"} overflow-hidden transition-all duration-500 ease-in-out md:max-h-full md:flex md:justify-center`}>
-        <ul className="flex flex-col pl-4 pb-4 md:flex-row gap-4 md:gap-8 text-white font-medium text-lg md:text-xl">
+        <ul className="flex flex-col md:flex-row pb-4 md:pb-0  dark:text-white text-slate-800 font-medium text-lg md:text-xl">
             {productos
             .filter((producto) => producto.nombre !== "Destacados")
             .map((producto) => (
-                <li key={producto.nombre} className="cursor-pointer font-nav" onClick={() => onProductosClick(producto)}>
+                <li key={producto.nombre} className="cursor-pointer rounded transition-all active:transform active:translate-y-1 p-2 px-3 font-nav hover:bg-[#91B1C4] hover:text-white hover:dark:text-black hover:dark:bg-[#B6CBD8]" onClick={() => onProductosClick(producto)}>
                 {producto.nombre}
                 </li>
             ))}
