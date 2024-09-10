@@ -37,12 +37,14 @@ const Carousel = () => {
         </div>
         
         <button
+            aria-label="prevButton"
             onClick={() => setCurrentIndex((currentIndex - 1 + slides.length) % slides.length)}
             className="absolute left-0 top-1/2 transform -translate-y-1/2  text-black dark:text-white p-2 rounded-full text-3xl md:text-4xl"
         >
             <ion-icon name="chevron-back-circle-outline"></ion-icon>
         </button>
         <button
+            aria-label="nextButton"
             onClick={goToNextSlide}
             className="absolute right-0 top-1/2 transform -translate-y-1/2  text-black dark:text-white p-2 rounded-full text-3xl md:text-4xl"
         >
