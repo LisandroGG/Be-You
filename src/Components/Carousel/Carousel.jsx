@@ -30,7 +30,7 @@ const Carousel = () => {
                 <img
                 src={slide.url}
                 alt={slide.alt}
-                className="w-full h-96 object-cover"
+                className="w-full h-56 md:h-96 object-cover"
                 />
             </div>
             ))}
