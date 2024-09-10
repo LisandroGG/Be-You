@@ -11,16 +11,18 @@ function App() {
 
   const [productoSeleccionado, setProductoSeleccionado] = useState(null)
   const [contenidoProductoSeleccionado, setContenidoProductoSeleccionado] = useState([]);
+  const [mostrarCarrusel, setMostrarCarrusel] = useState(true);
 
   const handleProductoClick = (producto) => {
     setProductoSeleccionado(producto);
     setContenidoProductoSeleccionado(producto.contenidos);
+    setMostrarCarrusel(false)
 };
 
   return (
     <>
       <Navbar onProductosClick={handleProductoClick} productos={products.productos}/>
-      <Main contenido={contenidoProductoSeleccionado} producto={productoSeleccionado}/>
+      <Main contenido={contenidoProductoSeleccionado} producto={productoSeleccionado} mostrarCarrusel={mostrarCarrusel}/>
       <Footer />
     </>
   )
