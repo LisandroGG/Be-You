@@ -20,11 +20,11 @@ function App() {
 };
 
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <Navbar onProductosClick={handleProductoClick} productos={products.productos}/>
       <Main contenido={contenidoProductoSeleccionado} producto={productoSeleccionado} mostrarCarrusel={mostrarCarrusel}/>
       <Footer />
-    </>
+    </div>
   )
 }
 

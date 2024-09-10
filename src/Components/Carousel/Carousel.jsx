@@ -3,10 +3,10 @@ import React, { useState, useEffect, useRef } from 'react';
 const Carousel = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const slides = [
-        { url: 'https://imgs.search.brave.com/8eZg7TdBQh96Z8E_fkRBvv5ld7xheltlIQGsitjQsas/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMx/MDg3NjM5MC9waG90/by9zdHVkaW8tbWlj/cm9waG9uZS1iYW5u/ZXItd2l0aC1yZWQt/YW5kLWJsdWUtbmVv/bi1saWdodHMud2Vi/cD9iPTEmcz02MTJ4/NjEyJnc9MCZrPTIw/JmM9ZGdqSndFaEtC/MFhPSTZkOFR4TzNp/VDd5U1VkeHRwVkFO/eUp1N0l6ME1KQT0', alt: 'Slide 1' },
-        { url: 'https://imgs.search.brave.com/7XoVl_uAXxIG-hIrncJGWsQwz553KuCrlVFR2eE15PU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90ZW1w/bGF0ZS5jYW52YS5j/b20vRUFEYW82bHps/ZHMvMS8wLzQwMHct/eGpkbXItRVlaVGMu/anBn', alt: 'Slide 2' },
+        { url: 'https://i.imgur.com/kzCNvEu.png', alt: 'Slide 1' },
+        /*{ url: 'https://imgs.search.brave.com/7XoVl_uAXxIG-hIrncJGWsQwz553KuCrlVFR2eE15PU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90ZW1w/bGF0ZS5jYW52YS5j/b20vRUFEYW82bHps/ZHMvMS8wLzQwMHct/eGpkbXItRVlaVGMu/anBn', alt: 'Slide 2' },
         { url: 'https://imgs.search.brave.com/cPbHL626RYOHOToKq-na_DcLkJNdhkVOEN3gXd3mMEY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYWcu/YXp1cmVlZGdlLm5l/dC93MnAtY21zLTEv/MTktMTItMjMtYXAt/Y3VzdG9tLWJhbm5l/cnMtY2FyZGluYWwu/anBn', alt: 'Slide 3' }
-    ];
+    */];
     
     const slideInterval = useRef(null);
 
