@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import Logo from '/logo.png';
+import Logo from '/logoL.png';
+import Logo2 from '/logoD.png';
 
 const Navbar = ({ onProductosClick, productos }) => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -34,7 +35,7 @@ const Navbar = ({ onProductosClick, productos }) => {
             </div>
 
         <a href="/">
-            <img src={Logo} alt="logo" className="w-30 h-12 md:w-40 md:h-16" />
+            <img src={theme === "dark" ? Logo : Logo2} alt="logo" className="w-30 h-12 md:w-40 md:h-16" />
         </a>
 
         <button onClick={handleChangeTheme} aria-label="theme" className="flex">
