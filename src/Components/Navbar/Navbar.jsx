@@ -60,7 +60,7 @@ const Navbar = ({ onProductosClick, productos }) => {
             {productos
             .filter((producto) => producto.nombre !== "Destacados")
             .map((producto) => (
-                <li key={producto.nombre} className="cursor-pointer" onClick={() => onProductosClick(producto)}>
+                <li key={producto.nombre} className="cursor-pointer font-nav" onClick={() => onProductosClick(producto)}>
                 {producto.nombre}
                 </li>
             ))}
