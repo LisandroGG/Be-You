@@ -46,7 +46,8 @@ const Carousel = () => {
                             src={slide.url}
                             alt={slide.alt}
                             className="w-full h-52 md:h-96 object-cover"
-                            
+                            width="120"
+                            height="48"
                         />
                     </div>
                 ))}
