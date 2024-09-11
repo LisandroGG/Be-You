@@ -6,7 +6,21 @@ const Main = ({ contenido, producto, mostrarCarrusel }) => {
             {mostrarCarrusel && <Carousel />}
             <h2 className="text-black dark:text-white font-nav">
             {producto ? 
-            producto.nombre 
+            (
+                <div>
+                    <h3>Categoria: {producto.nombre}</h3>
+                    
+                    {producto.contenidos && producto.contenidos.length > 0 && (
+                        <ul>
+                            {producto.contenidos.map((item, index) => (
+                                <li key={index}>
+                                    <h4>{item.nombre}</h4>
+                                    <p>{item.descripcion}</p>
+                                </li>
+                            ))}
+                        </ul>
+                    )}
+                </div>)
             : 
             'destacados'
             }

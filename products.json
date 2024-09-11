@@ -3,14 +3,19 @@
         {
             "nombre": "Destacados",
             "contenidos" : [
-
+                
             ]
         },
         {
             "nombre": "Remeras",
             "contenidos": [
                 {
-
+                    "nombre": "Remera con deco",
+                    "descripcion": "remera roja"
+                },
+                {
+                    "nombre": "Remera bordada",
+                    "descripcion": "remera azul"
                 }
             ]
         },
