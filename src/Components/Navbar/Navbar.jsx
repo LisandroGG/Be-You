@@ -35,7 +35,7 @@ const Navbar = ({ onProductosClick, productos }) => {
             </div>
 
         <a href="/">
-            <img src={theme === "dark" ? Logo : Logo2} alt="logo" className="w-30 h-12 md:w-40 md:h-16 object-contain" />
+            <img src={theme === "dark" ? Logo : Logo2} alt="logo" width="120" height="48" className="w-30 h-12 md:w-40 md:h-16 object-contain" />
         </a>
 
         <button onClick={handleChangeTheme} aria-label="theme" className="flex">
