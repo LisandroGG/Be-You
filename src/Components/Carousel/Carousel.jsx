@@ -4,7 +4,7 @@ const Carousel = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const slides = [
         { url: '/carousel/carrusel-1.webp', alt: 'Presentacion' },
-        { url: '/carousel/carrusel-3.webp', alt: 'Nueva colección' },
+        { url: '/carousel/carrusel-3,1.webp', alt: 'Nueva colección' },
         { url: '/carousel/carrusel-2.webp', alt: 'Talles'}
     ];
 
