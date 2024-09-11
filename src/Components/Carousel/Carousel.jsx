@@ -3,9 +3,9 @@ import React, { useState, useEffect, useRef } from 'react';
 const Carousel = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const slides = [
-        { url: 'https://res.cloudinary.com/dcznyhsek/image/upload/v1726071295/carrusel-1_fterxa.webp', alt: 'Presentacion' },
-        { url: 'https://res.cloudinary.com/dcznyhsek/image/upload/v1726071456/carrusel-3_o4b5ow.webp', alt: 'Nueva colección' },
-        { url: 'https://res.cloudinary.com/dcznyhsek/image/upload/v1726071454/carrusel-2_p1u7gs.webp', alt: 'Talles'}
+        { url: '/carousel/carrusel-1.webp', alt: 'Presentacion' },
+        { url: '/carousel/carrusel-3.webp', alt: 'Nueva colección' },
+        { url: '/carousel/carrusel-2.webp', alt: 'Talles'}
     ];
 
     const slideInterval = useRef(null);
