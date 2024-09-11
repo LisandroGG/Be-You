@@ -4,7 +4,7 @@ const Carousel = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const slides = [
         { url: 'https://i.imgur.com/OfEd7eC.png', alt: 'Presentacion' },
-        { url: 'https://i.imgur.com/bue2BpN.png', alt: 'Nueva colección' },
+        { url: 'https://i.imgur.com/IbbhuK3.png', alt: 'Nueva colección' },
         ];
     
     const slideInterval = useRef(null);
