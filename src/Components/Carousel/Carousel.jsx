@@ -48,6 +48,7 @@ const Carousel = () => {
                             className="w-full h-52 md:h-96 object-cover"
                             width="120"
                             height="48"
+                            loading="lazy"
                         />
                     </div>
                 ))}

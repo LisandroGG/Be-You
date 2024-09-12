@@ -16,6 +16,8 @@ const Main = ({ producto, mostrarCarrusel }) => {
                             {producto.contenidos.map((item, index) => (
                                 <li key={index} className="bg-slate-200 dark:bg-slate-800 p-1 rounded text-center">
                                     <img
+                                        width="120" 
+                                        height="48"
                                         src={item.imagen}
                                         alt={item.nombre || "Imagen del contenido"}
                                         className="w-auto h-44 md:h-64 lg:h-80 object-cover rounded-t"
