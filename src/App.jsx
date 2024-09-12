@@ -9,20 +9,18 @@ import products from '../products.json'
 
 function App() {
 
-  const [productoSeleccionado, setProductoSeleccionado] = useState(null)
-  const [contenidoProductoSeleccionado, setContenidoProductoSeleccionado] = useState([]);
+  const [productoSeleccionado, setProductoSeleccionado] = useState(products.productos[0])
   const [mostrarCarrusel, setMostrarCarrusel] = useState(true);
 
   const handleProductoClick = (producto) => {
     setProductoSeleccionado(producto);
-    setContenidoProductoSeleccionado(producto.contenidos);
     setMostrarCarrusel(false)
 };
 
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar onProductosClick={handleProductoClick} productos={products.productos}/>
-      <Main contenido={contenidoProductoSeleccionado} producto={productoSeleccionado} mostrarCarrusel={mostrarCarrusel}/>
+      <Main producto={productoSeleccionado} mostrarCarrusel={mostrarCarrusel}/>
       <Footer />
     </div>
   )
