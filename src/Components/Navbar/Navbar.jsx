@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Logo from '/logoL.png';
 import Logo2 from '/logoD.png';
 
-const Navbar = ({ onProductosClick, productos }) => {
+const Navbar = ({ onProductosClick, productos, productoSeleccionado }) => {
     const [menuOpen, setMenuOpen] = useState(false);
     const [theme, setTheme] = useState("light");
 
@@ -61,7 +61,15 @@ const Navbar = ({ onProductosClick, productos }) => {
             {productos
             .filter((producto) => producto.nombre !== "Destacados")
             .map((producto) => (
-                <li key={producto.nombre} className="select-none cursor-pointer rounded transition-all active:transform active:translate-y-1 p-2 px-3 font-Primary hover:bg-[#91B1C4] hover:text-white hover:dark:text-black hover:dark:bg-[#B6CBD8]" onClick={() => onProductosClick(producto)}>
+                <li
+                    key={producto.nombre}
+                    className={`select-none cursor-pointer rounded-t transition-all active:transform active:translate-y-1 p-2 px-3 font-Primary hover:bg-[#91B1C4] hover:text-white hover:dark:text-black hover:dark:bg-[#B6CBD8] ${
+                    productoSeleccionado.nombre === producto.nombre
+                    ? 'bg-[#91B1C4] text-white dark:text-black dark:bg-[#B6CBD8]'
+                    : ''
+                    }`}
+                onClick={() => onProductosClick(producto)}
+            >
                 {producto.nombre}
                 </li>
             ))}

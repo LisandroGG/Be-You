@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <Navbar onProductosClick={handleProductoClick} productos={products.productos}/>
+      <Navbar onProductosClick={handleProductoClick} productos={products.productos} productoSeleccionado={productoSeleccionado}/>
       <Main producto={productoSeleccionado} mostrarCarrusel={mostrarCarrusel}/>
       <Footer />
     </div>
