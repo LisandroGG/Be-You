@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Logo from '/logoL.png';
-import Logo2 from '/logoD.png';
+import Logo from '/nav/logoL.png';
+import Logo2 from '/nav/logoD.png';
 
 const Navbar = ({ onProductosClick, productos, productoSeleccionado }) => {
     const [menuOpen, setMenuOpen] = useState(false);

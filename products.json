@@ -32,7 +32,7 @@
         },
         {
             "nombre": "Remeras",
-            "imagen": "prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "remera prueba 1",
@@ -62,7 +62,7 @@
         },
         {
             "nombre": "Pantalones",
-            "imagen": "/prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "pantalon prueba 1",
@@ -92,7 +92,7 @@
         },
         {
             "nombre": "Vestidos",
-            "imagen": "/prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "vestido prueba 1",
@@ -122,7 +122,7 @@
         },
         {
             "nombre": "Abrigos",
-            "imagen": "/prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "abrigo prueba 1",
@@ -152,7 +152,7 @@
         },
         {
             "nombre": "Zapatillas",
-            "imagen": "/prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "zapatilla prueba 1",
@@ -182,7 +182,7 @@
         },
         {
             "nombre": "Conjuntos",
-            "imagen": "/prueba.png",
+            "imagen": "/products/prueba.png",
             "contenidos": [
                 {
                     "nombre": "conjunto prueba 1",
