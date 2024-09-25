@@ -20,7 +20,7 @@ const Main = ({ producto, mostrarCarrusel }) => {
             {mostrarCarrusel && <Carousel />}
             <section>
                 <article>
-                    {producto.imagen ? <img src={producto.imagen} alt={producto.nombre} className="w-full h-48 object-cover"></img> : ''}
+                    {producto.imagen ? <img src={producto.imagen} alt={producto.nombre} className="w-full h-56 object-cover"></img> : ''}
                 </article>
             </section>
             <section className="text-black dark:text-white font-Primary p-6 md:p-9 lg:p-12 xl:px-28">
