@@ -121,6 +121,36 @@
             ]
         },
         {
+            "nombre": "Abrigos",
+            "imagen": "/products/abrigos.webp",
+            "contenidos": [
+                {
+                    "nombre": "abrigos prueba 1",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                },
+                {
+                    "nombre": "abrigos prueba 2",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                },
+                {
+                    "nombre": "abrigos prueba 3",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                },
+                {
+                    "nombre": "abrigos prueba 4",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                },
+                {
+                    "nombre": "abrigos prueba 5",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                },
+                {
+                    "nombre": "abrigos prueba 6",
+                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                }
+            ]
+        },
+        {
             "nombre": "Colecciones",
             "imagen": "/products/colecciones.webp",
             "contenidos": [
