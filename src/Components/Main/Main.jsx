@@ -56,10 +56,10 @@ const Main = ({ producto, mostrarCarrusel }) => {
                                     />
 
                                     <button
-                                    className="absolute top-2 right-2 text-white bg-black rounded-full p-2"
+                                    className="absolute top-2 right-2 text-white bg-black rounded-full px-4 py-2 text-md "
                                     onClick={closeModal}
                                     >
-                                    &times;
+                                    x
                                     </button>
                                 </div>
                                 </div>

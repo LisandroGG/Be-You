@@ -5,50 +5,50 @@
             "imagen": "",
             "contenidos" : [
                 {
-                    "nombre": "destacado 1",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Buzo con efecto escamas",
+                    "imagen": "/products/abrigos/buzo-escamas.webp"
                 },
                 {
-                    "nombre": "destacado 2",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Vestido mariposa",
+                    "imagen": "/products/conjuntos/vestido-mariposa.webp"
                 },
                 {
-                    "nombre": "destacado 3",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Pantalon cargo",
+                    "imagen": "/products/pantalones/pantalon-cargo.webp"
                 },
                 {
-                    "nombre": "destacado 4",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Camisa fondo de bikini",
+                    "imagen": "/products/remeras/camisa-fondo-bikini.webp"
                 },
                 {
-                    "nombre": "destacado 5",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Mono reina de los corazones",
+                    "imagen": "/products/conjuntos/mono-corazones.webp"
                 },
                 {
-                    "nombre": "destacado 6",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Top de Jack Skellington",
+                    "imagen": "/products/remeras/top-jack.webp"
                 }
             ]
         },
         {
             "nombre": "Remeras",
-            "imagen": "/products/remeras.webp",
+            "imagen": "/products/remeras/remeras.webp",
             "contenidos": [
                 {
-                    "nombre": "remera prueba 1",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Camisa fondo de bikini",
+                    "imagen": "/products/remeras/camisa-fondo-bikini.webp"
                 },
                 {
-                    "nombre": "remera prueba 2",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Musculosa con elastico",
+                    "imagen": "/products/remeras/musculosa-elastico.webp"
                 },
                 {
-                    "nombre": "remera prueba 3",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Top de Jack Skellington",
+                    "imagen": "/products/remeras/top-jack.webp"
                 },
                 {
-                    "nombre": "remera prueba 4",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Top serpiente asimétrico",
+                    "imagen": "/products/remeras/top-serpiente.webp"
                 },
                 {
                     "nombre": "remera prueba 5",
@@ -62,23 +62,23 @@
         },
         {
             "nombre": "Pantalones",
-            "imagen": "/products/pantalones.webp",
+            "imagen": "/products/pantalones/pantalones.webp",
             "contenidos": [
                 {
-                    "nombre": "pantalon prueba 1",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Pantalon con patron de leopardo",
+                    "imagen": "/products/pantalones/pantalon-leopardo.webp"
                 },
                 {
-                    "nombre": "pantalon prueba 2",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Pantalon cargo",
+                    "imagen": "/products/pantalones/pantalon-cargo.webp"
                 },
                 {
-                    "nombre": "pantalon prueba 3",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Pantalon overlapping",
+                    "imagen": "/products/pantalones/pantalon-overlapping.webp"
                 },
                 {
-                    "nombre": "pantalon prueba 4",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Pollera pantalon",
+                    "imagen": "/products/pantalones/pollera-pantalon.webp"
                 },
                 {
                     "nombre": "pantalon prueba 5",
@@ -92,23 +92,23 @@
         },
         {
             "nombre": "Conjuntos",
-            "imagen": "/products/conjuntos.webp",
+            "imagen": "/products/conjuntos/conjuntos.webp",
             "contenidos": [
                 {
-                    "nombre": "conjunto prueba 1",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Enterizo sport",
+                    "imagen": "/products/conjuntos/enterizo-sport.webp"
                 },
                 {
-                    "nombre": "conjunto prueba 2",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Camisa y Saco",
+                    "imagen": "/products/conjuntos/camisa-y-saco.webp"
                 },
                 {
-                    "nombre": "conjunto prueba 3",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Vestido mariposa",
+                    "imagen": "/products/conjuntos/vestido-mariposa.webp"
                 },
                 {
-                    "nombre": "conjunto prueba 4",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Mono reina de los corazones",
+                    "imagen": "/products/conjuntos/mono-corazones.webp"
                 },
                 {
                     "nombre": "conjunto prueba 5",
@@ -122,23 +122,23 @@
         },
         {
             "nombre": "Abrigos",
-            "imagen": "/products/abrigos.webp",
+            "imagen": "/products/abrigos/abrigos.webp",
             "contenidos": [
                 {
-                    "nombre": "abrigos prueba 1",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Buzo con efecto escamas",
+                    "imagen": "/products/abrigos/buzo-escamas.webp"
                 },
                 {
-                    "nombre": "abrigos prueba 2",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Campera estilo japones",
+                    "imagen": "/products/abrigos/campera-japones.webp"
                 },
                 {
-                    "nombre": "abrigos prueba 3",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Saco Nanami",
+                    "imagen": "/products/abrigos/saco-nanami.webp"
                 },
                 {
-                    "nombre": "abrigos prueba 4",
-                    "imagen": "https://imgs.search.brave.com/XOkL-WbxMzINuJ6vIMZ3xrHDGbgC7B__ncZUAVUs9V8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waGFu/dG9tLW1hcmNhLnVu/aWRhZGVkaXRvcmlh/bC5lcy9jZmExYmZk/YzAxMTlmNDdjZjJm/MTRhZjI5ZWQ3MTRm/Ny9yZXNpemUvMTMy/MC9mL2pwZy9hc3Nl/dHMvbXVsdGltZWRp/YS9pbWFnZW5lcy8y/MDI0LzA5LzA4LzE3/MjU3OTc2NDMxNTY2/LmpwZw"
+                    "nombre": "Swether crop",
+                    "imagen": "/products/abrigos/swether-crop.webp"
                 },
                 {
                     "nombre": "abrigos prueba 5",
